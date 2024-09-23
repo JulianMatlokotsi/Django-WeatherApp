@@ -13,8 +13,8 @@ SkyCast is a Django-based weather application that allows users to search for th
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/skycast-app.git
-    cd skycast-app
+    git clone https://github.com/your-username/Django-WeatherApp.git
+    cd Django-WeatherApp
     ```
 
 2. Set up the virtual environment and install dependencies:
